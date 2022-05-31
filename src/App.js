@@ -81,8 +81,8 @@ function App() {
   }
 
   const { isLoaded } = useJsApiLoader({
-    id: "gasstations-346018",
-    googleMapsApiKey: "AIzaSyDMcE5tLJG1W3_SZJwMAtHb9X-CvmAOiQI",
+    id: "id",
+    googleMapsApiKey: "googleMapsApiKey",
   });
 
   function getAllStations() {
